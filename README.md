@@ -1,4 +1,4 @@
-# praktikum3
+# pratikum3
 
 *Latihan1 #Menentukan Bilangan Terbesar dari Banyak Bilangan.
 
